@@ -79,7 +79,7 @@ proc/build_syndi_buylist_cache()
 /datum/syndicate_buylist/generic/crabgun
 	name = "Crabgun"
 	item = /obj/item/gun/energy/crabgun
-	cost = 6
+	cost = 7
 	desc = "This genetically modified crab can shoot claws containing strands of part its own DNA, allowing you to instantly transform targets into crabs. No need to feed it, it's battery powered."
 #endif
 
